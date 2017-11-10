@@ -1,7 +1,7 @@
 # co-behavior
 A Polymer behavior, implementing the [co](https://github.com/tj/co) generator in Polymer.  [co](https://github.com/tj/co) is implmented as a behavior. A simple way to use it is as part of a a polymer function as below:
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/kisira/co-behavior)
 
 ```js
 <link rel="import" href="co-behavior.html">
