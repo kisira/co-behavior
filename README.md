@@ -28,4 +28,4 @@ __fetchSomething() {
 }
 
 ```
-Normal function can also be made into geherators. Read more about [co](https://github.com/tj/co) and generators [here](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/) 
+Read more about [co](https://github.com/tj/co) and generators [here](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/) 
