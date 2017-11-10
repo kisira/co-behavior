@@ -25,8 +25,7 @@
         "polymer": "Polymer/polymer#1.9 - 2"
     },
     "devDependencies": {
-        "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
-        "web-component-tester": "Polymer/web-component-tester#^6.0.0"
+        "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
     },
     "variants": {
         "1.x": {
@@ -48,9 +47,9 @@
     "_release": "1.0.0",
     "_resolution": {
         "type": "version",
-        "tag": "v1.0.0"
+        "tag": "v1.0.0.10"
     },
     "_source": "https://github.com/kisira/co-behavior.git",
-    "_target": "^1.0.0",
+    "_target": "1 - 2",
     "_originalSource": "kisira/co-behavior"
 }
