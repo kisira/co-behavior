@@ -27,4 +27,13 @@ __fetchSomething() {
 }
 
 ```
+
+Install with:
+
+```shell
+
+bower install co-behavior --save-dev
+
+```
+
 Read more about [co](https://github.com/tj/co) and generators [here](http://tobyho.com/2015/12/27/promise-based-coroutines-nodejs/) 
