@@ -1,0 +1,31 @@
+<link rel="import" href="co-behavior.html">
+<dom-module>
+    <template>
+    
+</template>
+    <script>
+        class SomeClass extends Polymer.mixinBehaviors(
+            [
+                Polymer.CoBehavior
+            ], Polymer.Element) {
+
+            __fetchStuff() {
+                var self = this;
+                return new Promise(function(resolve, reject) {
+                    .....
+                    resolve(stuff);
+                });
+            }
+
+            __fetchSomething() {
+                let something = function*() {
+                    let stuff = yield this.__fetchStuff.call(this);
+                    this.someProperty = stuff;
+                };
+                return this.co(something.call(this));
+            }
+        }
+        export....
+    </script>
+
+</dom-module>
