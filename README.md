@@ -10,12 +10,11 @@ class SomeClass extends Polymer.mixinBehaviors(
                 Polymer.CoBehavior
             ], Polymer.Element) {
 
-_fetchStuff() {
+__fetchStuff() {
     var self = this;
     return new Promise(function(resolve, reject) {
         .....
         resolve(stuff);
-
     });
 }
 
