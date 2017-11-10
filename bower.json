@@ -1,0 +1,8 @@
+{
+    "name": "co-behavior",
+    "version": "1.0.0",
+    "authors": [
+        "Agola Kisira Odero"
+    ],
+   "description": "co behavior for polymer, based on co v4.0. See https://github.com/tj/co"
+}
