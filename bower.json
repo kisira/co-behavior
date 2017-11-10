@@ -10,7 +10,12 @@
         "polymer"
     ],
     "main": "co-behavior.html",
-    "license": "http://polymer.github.io/LICENSE.txt",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "git://https://github.com/kisira/co-behavior.git"
+    },
+    "license": "https://github.com/kisira/co-behavior.git/LICENSE.txt",
     "homepage": "https://github.com/kisira/co-behavior",
     "ignore": [
         "/.*",
