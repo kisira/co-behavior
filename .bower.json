@@ -1,6 +1,6 @@
 {
     "name": "co-behavior",
-    "version": "v1.0.0",
+    "version": "v1.0.0.10",
     "authors": [
         "Agola Kisira Odero"
     ],
@@ -44,7 +44,7 @@
     "resolutions": {
         "webcomponentsjs": "^1.0.0"
     },
-    "_release": "1.0.0",
+    "_release": "1.0.0.10",
     "_resolution": {
         "type": "version",
         "tag": "v1.0.0.10"
